@@ -1,6 +1,16 @@
 # TMN CUSTOMER CHURN ANALYSIS
 ---
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Purpose of the Analysis](#purpose-of-the-analysis)
+- [Dataset Overview](#dataset-overview)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Key Insights and Findings](#key-insights-and-findings)
+- [Summary of Key Insights](#summary-of-key-insights)
+- [Recommendations](#recommendations)
+
 
 # INTRODUCTION 
 ### An end-to-end Customer Churn Analysis project built with Power BI. This repository covers data preparation, exploratory data analysis, churn rate calculation, customer segmentation, and interactive dashboard design. The analysis highlights key factors influencing customer churn and provides business-driven insights to support data-informed retention strategies.
@@ -22,7 +32,7 @@ improving retention.
 - Usage patterns (e.g., international plan, call minutes) 
 - Churn indicator (Yes/No)
 
-## DATA CLEANING & PREPARATION 
+## DATA CLEANING AND PREPARATION 
 
 ### DATA CLEANING STEPS 
 - Handling Missing Values: (e.g., "Replaced missing values in 'Total Charges' with 
@@ -62,7 +72,7 @@ adding Conditional columns.
 - Churn Rate by International Plan (Yes vs. No) 
 - State-Level Churn Map (Visualizing churn rates by state)
 
-## KEY INSIGHTS & FINDINGS 
+## KEY INSIGHTS AND FINDINGS 
 
 ### Overview of Churn 
 • Total Customers: 6,687 
