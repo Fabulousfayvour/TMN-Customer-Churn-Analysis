@@ -1,6 +1,9 @@
-# An end-to-end Customer Churn Analysis project built with Power BI. This repository covers data preparation, exploratory data analysis, churn rate calculation, customer segmentation, and interactive dashboard design. The analysis highlights key factors influencing customer churn and provides business-driven insights to support data-informed retention strategies.
+# TMN CUSTOMER CHURN ANALYSIS
+---
 
-## INTRODUCTION 
+
+# INTRODUCTION 
+### An end-to-end Customer Churn Analysis project built with Power BI. This repository covers data preparation, exploratory data analysis, churn rate calculation, customer segmentation, and interactive dashboard design. The analysis highlights key factors influencing customer churn and provides business-driven insights to support data-informed retention strategies.
 
 ## PURPOSE OF THE ANALYSIS 
 
